@@ -1,0 +1,49 @@
+body{
+    margin: 0px;
+}
+
+.ulnav{
+    display: flex;
+    list-style-type: none;
+    
+    
+}
+.anav{
+    color:inherit;
+    text-decoration: none;
+    font-family: "Oswald", sans-serif;
+}
+
+nav{
+    background-color: steelblue;
+    padding: 10px;
+}
+
+
+
+.linav{
+    padding-right: 30px;
+}
+
+.tablecontainer{
+    justify-content: center;
+}
+
+caption{
+    border-top: 2px solid black;
+    border-right: 2px solid black;
+    border-left: 2px solid black;;
+}
+
+table {
+    margin : 40px;
+    font-family: "Bebas Neue", sans-serif;
+    border: 2px solid black;
+}
+
+
+footer{
+    font-family: "Oswald", sans-serif;
+    text-align: center;
+    position: absolute;
+}
